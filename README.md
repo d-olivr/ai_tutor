@@ -9,6 +9,7 @@ Our work involve collecting, cleaning and preparing educational datasets, then u
 - Pandas - data manipulation, preprocessing
 - Scikit-learn - ML algorithms + evaluation
 - NumPy - numerical computing
+- Matplotlib - creating visualizations
 - Google Collab - experiments + prototyping
 
 
